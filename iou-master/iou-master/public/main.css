@@ -1,0 +1,6 @@
+/* Use the correct font everywhere */
+@import url("/fonts/GoogleSeptember2015/stylesheet.css");
+
+.v-application {
+  font-family: "Google September 2015", sans-serif !important;
+}
